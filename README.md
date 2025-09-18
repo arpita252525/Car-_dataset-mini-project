@@ -1,9 +1,3 @@
-Got it 👍 Your notebook **Car Dataset Mini Project** is about analyzing a car dataset (with Pandas, CSV reading, etc.). I’ll draft a **README.md** file for GitHub that explains your project, setup, and usage.
-
-Here’s a first version:
-
----
-
 # Car Dataset Mini Project 🚗📊
 
 This repository contains a mini project focused on analyzing a **car price dataset** using Python (Pandas, NumPy, Matplotlib/Seaborn). The goal is to explore the dataset, perform data cleaning, and extract useful insights about car prices and their influencing factors.
